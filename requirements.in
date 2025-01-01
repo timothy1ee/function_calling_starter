@@ -1,3 +1,7 @@
+# Pin pydantic to avoid a chainlit compatibility issue
+# https://github.com/Chainlit/chainlit/issues/1544
+pydantic==2.10.1
+
 python-dotenv
 chainlit
 openai
