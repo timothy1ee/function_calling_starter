@@ -43,7 +43,10 @@ Then edit the `.env` file and add your API keys:
 - OPENAI_API_KEY: Your OpenAI API key
 - TMDB_API_ACCESS_TOKEN: Your TMDB API access token
 - SERP_API_KEY: Your SERP API key
-- LANGCHAIN_API_KEY: Your LangChain API key
+- LANGSMITH_API_KEY: Your LangSmith API key
+- LANGSMITH_PROJECT: Your LangSmith project name
+- ANTHROPIC_API_KEY: Your Anthropic API key
+- FIREWORKS_API_KEY: Your Fireworks API key
 
 ### 4. Install dependencies
 
